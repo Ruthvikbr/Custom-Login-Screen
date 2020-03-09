@@ -5,4 +5,6 @@
     <string name="welcome_to_our_community">Welcome to our community!</string>
     <string name="not_part_of_a_community">Not part of a community?</string>
     <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
 </resources>
