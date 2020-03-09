@@ -6,7 +6,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-
     >
 
     <TextView
@@ -38,8 +37,6 @@
         android:background="@color/colorPrimary"
         app:cardCornerRadius="22.5dp"
         app:cardElevation="10dp"
-
-
         >
         <TextView
             android:id="@+id/loginButton"
