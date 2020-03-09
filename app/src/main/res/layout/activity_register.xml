@@ -18,6 +18,7 @@
         app:elevation="5dp" />
 
     <TextView
+        android:id="@+id/signUpGreeting"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/signUpBackButton"
@@ -31,9 +32,9 @@
         android:id="@+id/nameCardView"
         android:layout_width="match_parent"
         android:layout_height="40dp"
-        android:layout_below="@id/signUpBackButton"
+        android:layout_below="@id/signUpGreeting"
         android:layout_marginLeft="25dp"
-        android:layout_marginTop="200dp"
+        android:layout_marginTop="150dp"
         android:layout_marginRight="25dp"
         app:cardBackgroundColor="#e0e0e0"
         app:cardCornerRadius="20dp"

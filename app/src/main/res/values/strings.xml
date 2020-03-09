@@ -10,4 +10,5 @@
     <string name="name">Name</string>
     <string name="phone">Phone</string>
     <string name="signUpGreeting">Sign Up to join our Community!</string>
+    <string name="loginGreeting">Login to be a part of our community</string>
 </resources>
